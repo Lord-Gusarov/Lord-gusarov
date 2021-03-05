@@ -4,32 +4,12 @@
 (Martin Golding)
 
 
-Account age: **{{ ACCOUNT_AGE }}** years
-
-Pushed **{{ COMMITS }}** commits
-
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top 8 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
 Top 4 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=Python%EF%B8%B162.8%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B111%25)
+![Julia](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B18.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B117.3%25)
 
 <!--
 **Lord-Gusarov/Lord-gusarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
