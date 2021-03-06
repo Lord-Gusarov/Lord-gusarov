@@ -1,6 +1,6 @@
 <h1 align="center">Lord-Gusarov<br></h1>
 
-![alt text](Thanos_glove.gif)
+<img src="Thanos_glove.gif" alt="Thanos Makes a Fist" align="center">
 
 
 “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.”
