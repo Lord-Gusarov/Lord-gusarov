@@ -1,6 +1,4 @@
-<p align="center">
-  <b>Lord-Gusarov</b><br>
-</p>
+<h1 align="center">Lord-Gusarov<br></h1>
 
 ![alt text](Thanos_glove.gif)
 
