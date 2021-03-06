@@ -1,10 +1,5 @@
-<p align="center">
-  <h1 align="center">
-    Lord-Gusarov
-  </h1>
-  <img src="Thanos_glove.gif" width="100%">
-</p>
-
+<h1 align="center"> Lord-Gusarov </h1>
+<img src="Thanos_glove.gif" width="100%">
 
 “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.”
 (Martin Golding)
