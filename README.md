@@ -2,7 +2,7 @@
   <h1 align="center">
     Lord-Gusarov
   </h1>
-  <img src="Thanos_glove.gif">
+  <img src="Thanos_glove.gif" width="100%">
 </p>
 
 
