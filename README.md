@@ -1,4 +1,8 @@
-![alt text](./greeting.svg)
+<p align="center">
+	<h1>Lord-Gusarov</h1>
+</p>
+
+
 ![alt text](Thanos_glove.gif)
 
 
