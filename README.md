@@ -4,7 +4,7 @@
 
 <div align="center"><img src="Thanos_glove.gif" alt="Thanos Making a Fist" />
  
-### “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.” (Martin Golding)
+#### “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.” (Martin Golding)
  
 <!--  GitHub Stats --->
 <a><img height="165px" img align="center" alt="Lord-Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark" />
