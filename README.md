@@ -2,7 +2,7 @@
 
 # Lord-Gusarov
 
-<div align="center"><img src="Thanos_glove.gif" alt="Thanos Making a Fist" />
+<img src="Thanos_glove.gif" alt="Thanos Making a Fist" width="100%"/>
  
  -------
  
