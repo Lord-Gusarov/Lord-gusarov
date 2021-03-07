@@ -1,13 +1,4 @@
-<style>
-  div {
-    display: flex;
-  }
-  .stats {
-    flex-grow: 1;
-    text-align: center;
-    justify-content: center;
-  }
- </style>
+
   
 
 <h1 align="center"> Lord-Gusarov </h1>
@@ -15,10 +6,10 @@
 
 “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.”
 (Martin Golding)
-<div>
+<div align="center">
   <!--  GitHub Stats --->
-  <img class="stats" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark">
-  <img class="stats" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark">
+  <img alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark">
+  <img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark">
 </div>
 
 <!--
