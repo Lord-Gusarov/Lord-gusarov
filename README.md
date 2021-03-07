@@ -3,10 +3,11 @@
 
 “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.”
 (Martin Golding)
-
-<!--  GitHub Stats --->
-<a><img width="425" img align="center" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark"/></a>
-<a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark"/></a>
+<div align="center">
+  <!--  GitHub Stats --->
+  <a><img width="425" img align="center" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?     username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark"/></a>
+  <a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark"/></a>
+ </div>
 
 <!--
 **Lord-Gusarov/Lord-gusarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
