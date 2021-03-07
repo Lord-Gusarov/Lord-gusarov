@@ -5,7 +5,7 @@
 (Martin Golding)
 <div align="justify">
   <!--  GitHub Stats --->
-  <img width="40%" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark">
+  <img width="60%" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark">
   <img width="40%" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark">
  </div>
   
