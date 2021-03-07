@@ -5,8 +5,8 @@
 (Martin Golding)
 <div align="center">
   <!--  GitHub Stats --->
-  <a><img width="425" img align="center" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?    username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark"/></a>
-  <a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark"/></a>
+  <a><img width="425" img align="center" alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark"/></a>
+  <a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark"/></a>
  </div>
 
 <!--
