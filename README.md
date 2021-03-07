@@ -5,6 +5,7 @@
   .stats {
     flex-grow: 1;
     text-align: center;
+    justify-content: center;
   }
  </style>
   
