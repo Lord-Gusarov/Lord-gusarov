@@ -1,6 +1,6 @@
 <div align="center">
 
- <h1 align="center"> Lord-Gusarov </h1>
+ Lord-Gusarov
 
 <div align="center"><img src="Thanos_glove.gif" alt="Thanos Making a Fist" />
 
