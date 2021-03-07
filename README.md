@@ -3,11 +3,12 @@
 
 “Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.”
 (Martin Golding)
-<div align="center"
+<div align="justify">
   <!--  GitHub Stats --->
   <img alt="Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark">
   <img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark">
-/>
+ </div>
+  
 
 <!--
 **Lord-Gusarov/Lord-gusarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
