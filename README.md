@@ -1,7 +1,7 @@
 <div align="center">
-
-# Lord-Gusarov                  [RESUME](resume.pdf)
-
+<pre>
+# Lord-Gusarov                  [Resume de vita](resume.pdf)
+</pre>
 <img src="Thanos_glove.gif" alt="Thanos Making a Fist" width="100%"/>
  
  -------
