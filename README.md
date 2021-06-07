@@ -10,7 +10,7 @@
  
 <!--  GitHub Stats --->
 <a><img height="165px" img align="center" alt="Lord-Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark" />
-</a><a><img hight="160px" img align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark" /></a>
+</a><a><img height="160px" img align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Gusarov&layout=compact&hide=perl&theme=chartreuse-dark" /></a>
 
 
 
